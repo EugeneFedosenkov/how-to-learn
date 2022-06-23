@@ -358,9 +358,8 @@ margin: 0;
 
 .footer__column_content_info{
   position: absolute;
-  top: 0;
+  top: 60px;
   right: 25%;
-  
 }
 
 .footer__column-heading_text{
@@ -387,7 +386,7 @@ padding: 20px 0 16px 0;
 }
 .footer__column_content_social{
   position: absolute;
-  top: 0;
+  top: 60;
   right: 0;
   line-height: 30px;
   font-size: 18px;
@@ -406,8 +405,8 @@ padding: 20px 0 16px 0;
 .footer__column-links_menu{
   list-style-type: none;
   padding: 0;
-
 }
+
 .footer__column-heading_text{
   margin: 0;
 }
