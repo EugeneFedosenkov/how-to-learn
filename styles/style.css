@@ -231,9 +231,9 @@ margin: 0;
   position: relative;
   padding: 00px 0 00px 0;
   flex-wrap: wrap;
-  background-color: #000  ;
+  background-color: #000;
   z-index: -1;
-  overflow: hidden; 
+  overflow: hidden;
   box-sizing: border-box;
 }
 
@@ -249,6 +249,7 @@ margin: 0;
 
 .section-subtitle_theme_dark{
 padding: 0;
+  color: white;
 }
 
 .table__cell_theme_dark {
@@ -257,10 +258,6 @@ padding: 0;
   margin-right: 0;
   margin-top: 80px;
   z-index: 2;
-}
-
-.section-subtitle_theme_dark{
-  color: white;
 }
 
 .kaufman__triangle{
@@ -322,10 +319,6 @@ margin: 0;
   font-weight: normal;
   color: white;
   text-decoration: none;
-}
-
-.footer__column_content_info{
-align-self: ;
 }
 
 .footer__column_content_social{
