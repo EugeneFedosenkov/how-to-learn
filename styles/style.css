@@ -56,7 +56,8 @@
 .header__title{
   align-self: center;
   width: 730px;
-  padding: 0 0 0 64px;
+  margin: 0 0 0 64px;
+  padding: 0;
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
@@ -210,7 +211,7 @@ padding: 0px;
   font-weight: bold;
 }
 
-.feynman__subtile{
+.feynman__subtitle{
   margin: 70px 0 0 0;
   display: flex;
   justify-content: center;
@@ -259,7 +260,7 @@ margin: 0 auto 90px auto;
   box-sizing: border-box;
   color: white;
   margin-right: 0;
-  margin-top: 20px;
+  padding-top: 80px;
   z-index: 2;
 }
 
