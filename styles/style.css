@@ -292,7 +292,7 @@ margin: 0 auto 90px auto;
   box-sizing: border-box;
 
 }
-.footer__column_content-copyright{
+.footer__column_content_copyright{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
